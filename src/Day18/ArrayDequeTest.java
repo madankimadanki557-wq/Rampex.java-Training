@@ -1,6 +1,6 @@
 package Day18;
 import java.util.ArrayDeque;
-public class Queuetask {
+public class ArrayDequeTest {
         public static void main(String[] args){
             ArrayDeque<Integer> dq=new ArrayDeque<Integer>();
             dq.add(5);
